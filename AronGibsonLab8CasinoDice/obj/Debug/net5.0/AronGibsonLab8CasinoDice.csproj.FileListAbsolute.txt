@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\bin\Debug\net5.0\AronGibsonLab8CasinoDice.exe
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\bin\Debug\net5.0\AronGibsonLab8CasinoDice.deps.json
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\bin\Debug\net5.0\AronGibsonLab8CasinoDice.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\bin\Debug\net5.0\AronGibsonLab8CasinoDice.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\bin\Debug\net5.0\AronGibsonLab8CasinoDice.dll
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\bin\Debug\net5.0\ref\AronGibsonLab8CasinoDice.dll
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\bin\Debug\net5.0\AronGibsonLab8CasinoDice.pdb
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\AronGibsonLab8CasinoDice.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\AronGibsonLab8CasinoDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\AronGibsonLab8CasinoDice.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\AronGibsonLab8CasinoDice.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\AronGibsonLab8CasinoDice.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\AronGibsonLab8CasinoDice.dll
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\ref\AronGibsonLab8CasinoDice.dll
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\AronGibsonLab8CasinoDice.pdb
+C:\Users\aron\source\repos\AronGibsonLab8CasinoDice\AronGibsonLab8CasinoDice\obj\Debug\net5.0\AronGibsonLab8CasinoDice.genruntimeconfig.cache
